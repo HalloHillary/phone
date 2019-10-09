@@ -1,0 +1,4 @@
+#Wed Oct 09 17:26:34 CST 2019
+base.0=D\:\\Tan\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\5
+path.0=classes.dex
+renamed.0=classes.dex
