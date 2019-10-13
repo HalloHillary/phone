@@ -27,6 +27,7 @@
             </intent-filter>
         </activity>
         <activity android:name="com.example.tan.MainActivity" />
+        <activity android:name="com.example.tan.AdActivity" />
 
         <provider
             android:name="com.android.tools.ir.server.InstantRunContentProvider"

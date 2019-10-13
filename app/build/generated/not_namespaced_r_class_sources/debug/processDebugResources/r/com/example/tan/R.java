@@ -3190,13 +3190,14 @@ public final class R {
     public static final int title_template=0x7f0700ad;
     public static final int top=0x7f0700ae;
     public static final int topPanel=0x7f0700af;
-    public static final int unchecked=0x7f0700b0;
-    public static final int uniform=0x7f0700b1;
-    public static final int up=0x7f0700b2;
-    public static final int useLogo=0x7f0700b3;
-    public static final int withText=0x7f0700b4;
-    public static final int wrap=0x7f0700b5;
-    public static final int wrap_content=0x7f0700b6;
+    public static final int tv_count=0x7f0700b0;
+    public static final int unchecked=0x7f0700b1;
+    public static final int uniform=0x7f0700b2;
+    public static final int up=0x7f0700b3;
+    public static final int useLogo=0x7f0700b4;
+    public static final int withText=0x7f0700b5;
+    public static final int wrap=0x7f0700b6;
+    public static final int wrap_content=0x7f0700b7;
   }
   public static final class integer {
     public static final int abc_config_activityDefaultDur=0x7f080000;
@@ -3243,28 +3244,33 @@ public final class R {
     public static final int abc_search_view=0x7f0a0019;
     public static final int abc_select_dialog_material=0x7f0a001a;
     public static final int abc_tooltip=0x7f0a001b;
-    public static final int activity_main=0x7f0a001c;
-    public static final int activity_splash=0x7f0a001d;
-    public static final int custom_dialog=0x7f0a001e;
-    public static final int notification_action=0x7f0a001f;
-    public static final int notification_action_tombstone=0x7f0a0020;
-    public static final int notification_template_custom_big=0x7f0a0021;
-    public static final int notification_template_icon_group=0x7f0a0022;
-    public static final int notification_template_part_chronometer=0x7f0a0023;
-    public static final int notification_template_part_time=0x7f0a0024;
-    public static final int select_dialog_item_material=0x7f0a0025;
-    public static final int select_dialog_multichoice_material=0x7f0a0026;
-    public static final int select_dialog_singlechoice_material=0x7f0a0027;
-    public static final int support_simple_spinner_dropdown_item=0x7f0a0028;
+    public static final int activity_ad=0x7f0a001c;
+    public static final int activity_main=0x7f0a001d;
+    public static final int activity_splash=0x7f0a001e;
+    public static final int custom_dialog=0x7f0a001f;
+    public static final int notification_action=0x7f0a0020;
+    public static final int notification_action_tombstone=0x7f0a0021;
+    public static final int notification_template_custom_big=0x7f0a0022;
+    public static final int notification_template_icon_group=0x7f0a0023;
+    public static final int notification_template_part_chronometer=0x7f0a0024;
+    public static final int notification_template_part_time=0x7f0a0025;
+    public static final int select_dialog_item_material=0x7f0a0026;
+    public static final int select_dialog_multichoice_material=0x7f0a0027;
+    public static final int select_dialog_singlechoice_material=0x7f0a0028;
+    public static final int support_simple_spinner_dropdown_item=0x7f0a0029;
   }
   public static final class mipmap {
-    public static final int ic_launcher=0x7f0b0000;
-    public static final int ic_launcher_round=0x7f0b0001;
-    public static final int logo=0x7f0b0002;
-    public static final int splash_bg=0x7f0b0003;
-    public static final int splash_loading_bg=0x7f0b0004;
-    public static final int splash_loading_item=0x7f0b0005;
-    public static final int splash_logo=0x7f0b0006;
+    public static final int ad1=0x7f0b0000;
+    public static final int ad2=0x7f0b0001;
+    public static final int ad3=0x7f0b0002;
+    public static final int bai=0x7f0b0003;
+    public static final int ic_launcher=0x7f0b0004;
+    public static final int ic_launcher_round=0x7f0b0005;
+    public static final int logo=0x7f0b0006;
+    public static final int splash_bg=0x7f0b0007;
+    public static final int splash_loading_bg=0x7f0b0008;
+    public static final int splash_loading_item=0x7f0b0009;
+    public static final int splash_logo=0x7f0b000a;
   }
   public static final class string {
     public static final int abc_action_bar_home_description=0x7f0c0000;
